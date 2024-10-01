@@ -8,6 +8,6 @@ Für meine Arbeit verwende ich folgende Struktur-Schritte **Ask, Prepare, Proces
 
 Ein klares Ziel hilft uns, den Fokus auf das Wesentliche zu legen und sicherzustellen, dass deine Ergebnisse dem Unternehmen einen echten Mehrwert bieten.
 
-  **Frage:** Was ist das Ziel der Kundensegmentierung und warum ist es wichtig?
+ * **Frage:** Was ist das Ziel der Kundensegmentierung und warum ist es wichtig?
   
-  **Ziel:** Wie können Kunden in verschiedene Gruppen unterteilt werden, um die Kundenbindung zu verbessern?
+ * **Ziel:** Wie können Kunden in verschiedene Gruppen unterteilt werden, um die Kundenbindung zu verbessern?
